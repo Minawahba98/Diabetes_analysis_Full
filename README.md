@@ -13,6 +13,9 @@ The dataset contains medical records with attributes such as:
 - **Cholesterol, LDL, HDL** - Lipid profile indicators
 - **CLASS** - Diabetes classification (`Y` = Diabetic, `N` = Non-Diabetic, `P` = Pre-Diabetic)
 
+## Project Explanation
+![Project Explanation](path/to/your/explanation-image.png)
+
 ## Data Cleaning and Preparation in SQL
 Before performing analysis, we first cleaned the dataset using SQL:
 
@@ -112,9 +115,6 @@ We created **interactive dashboards** in **Tableau** to visualize key insights. 
 View the **interactive Tableau dashboard** here: [Diabetes Analysis Tableau Dashboard](https://public.tableau.com/app/profile/mina.wahba/viz/Diabetes_17383887624380/Diabetes_Analysis)
 
 ## Screenshots
-### Project Explanation
-![Project Explanation](path/to/your/explanation-image.png)
-
 ### Tableau Dashboard
 ![Tableau Dashboard](path/to/your/tableau-screenshot.png)
 
