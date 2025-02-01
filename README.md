@@ -1,6 +1,9 @@
 # Diabetes_analysis_Full
 # Diabetes Data Analysis Project
 
+## Project Explanation
+![Project Explanation](diabetes-program.jpg)
+
 ## Project Overview
 This project analyzes a **Diabetes Dataset** using SQL and Tableau. The goal is to uncover insights about diabetes risk factors, patient demographics, and health indicators such as **HbA1c levels, BMI, Cholesterol, and Age groups**. The analysis helps in understanding trends in diabetes and visualizing key patterns for better decision-making.
 
@@ -12,9 +15,6 @@ The dataset contains medical records with attributes such as:
 - **BMI** - Body Mass Index
 - **Cholesterol, LDL, HDL** - Lipid profile indicators
 - **CLASS** - Diabetes classification (`Y` = Diabetic, `N` = Non-Diabetic, `P` = Pre-Diabetic)
-
-## Project Explanation
-![Project Explanation](diabetes-program.jpg)
 
 ## Data Cleaning and Preparation in SQL
 Before performing analysis, we first cleaned the dataset using SQL:
@@ -116,9 +116,7 @@ View the **interactive Tableau dashboard** here: [Diabetes Analysis Tableau Dash
 
 ## Screenshots
 ### Tableau Dashboard
-![Tableau Dashboard](Screenshot 2025-02-01 005244.png)
-
-*(Replace `path/to/your/image.png` with the actual paths to your images in the GitHub repository.)*
+![Tableau Dashboard](Screenshot%202025-02-01%20005244.png)
 
 ## How to Run the Project
 1. **SQL Analysis**
@@ -141,4 +139,5 @@ Feel free to contribute by improving the analysis, adding visualizations, or ref
 
 ## Contact
 For any questions or discussions, reach out via **GitHub Issues** or email.
+
 
