@@ -14,7 +14,7 @@ The dataset contains medical records with attributes such as:
 - **CLASS** - Diabetes classification (`Y` = Diabetic, `N` = Non-Diabetic, `P` = Pre-Diabetic)
 
 ## Project Explanation
-![Project Explanation](path/to/your/explanation-image.png)
+![Project Explanation](diabetes-program.jpg)
 
 ## Data Cleaning and Preparation in SQL
 Before performing analysis, we first cleaned the dataset using SQL:
