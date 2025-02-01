@@ -116,7 +116,7 @@ View the **interactive Tableau dashboard** here: [Diabetes Analysis Tableau Dash
 
 ## Screenshots
 ### Tableau Dashboard
-![Tableau Dashboard](path/to/your/tableau-screenshot.png)
+![Tableau Dashboard](Screenshot 2025-02-01 005244.png)
 
 *(Replace `path/to/your/image.png` with the actual paths to your images in the GitHub repository.)*
 
